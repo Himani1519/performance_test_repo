@@ -40,7 +40,7 @@
             </collectionProp>
           </elementProp>
           <stringProp name="HTTPSampler.domain">RS28.rocketsoftware.com</stringProp>
-          <stringProp name="HTTPSampler.port">61519</stringProp>
+          <stringProp name="HTTPSampler.port">60019</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">auth</stringProp>
@@ -73,7 +73,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">RS28.rocketsoftware.com</stringProp>
-          <stringProp name="HTTPSampler.port">61519</stringProp>
+          <stringProp name="HTTPSampler.port">60019</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">server</stringProp>
@@ -95,7 +95,7 @@
               </elementProp>
               <elementProp name="" elementType="Header">
                 <stringProp name="Header.name">Cookie</stringProp>
-                <stringProp name="Header.value">connect.sid.60100=s%3Ai7d12KF7sj_xVGOMCSjRKAuYZVffoBHp.n%2BgHcQZdtk7nzTEj0pEDmchm9x9veirNQHL8qa1EPEQ; connect.sid.61519=s%3A4fZBqtvBSCqs1k7o55pIjm8M7IWX5N9c.p3noSEQt1lpn6HbTcbA9NU9KjUdtEf4gjJOARYl0pFQ; jedHTTPSession.60919=wmqKAeeO3h9rI/PO65UWBMEhLx0HdPhg/fQ9captHqNeeL4rzQjbsA==</stringProp>
+                <stringProp name="Header.value">connect.sid.60019=s%3Af_zj2xARRF1Dq7HOagGCMTmRYEOp35LA.ycU3AbnFbD%2BUWK33XDyihRJ7ABSJWWwz%2FBNyA7mNqrw; jedHTTPSession.60919=He4z0kwqvtWXedXXoBmpCLnBKrVxHbkxqFMVk4d+cscJk/XlAEFNSQ==</stringProp>
               </elementProp>
             </collectionProp>
           </HeaderManager>
